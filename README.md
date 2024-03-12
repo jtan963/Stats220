@@ -13,6 +13,6 @@
 3. KFC 🍗
 
 ### My NZTop40 when I was born:
-[Feb 19 2003]([https://nztop40.co.nz/chart/singles?chart=1212])
+![Feb 19 2003]([https://nztop40.co.nz/chart/singles?chart=1212])
 
 
